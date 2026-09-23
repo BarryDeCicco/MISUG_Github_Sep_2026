@@ -4,7 +4,6 @@ data myclass;
     height_cm = height * 2.54;
 run;
 
-/* I just inserted a comment  */
 
 /* Step 2: Print the results */
 proc print data=myclass;
